@@ -73,6 +73,8 @@
 - [OTUS Разработчик Python](https://) | [Free ссылка](https://cloud.mail.ru/public/Ep4K/3DMDfcWfn)
 Описание:Python+Django
 
+- [Coursera Программирование на Python] | (https://www.coursera.org/specializations/programming-in-python)
+
 # ON ENGLISH LANGUAGE:
 - [Udemy Flask is Fun and Easy- From basics to building scalable Apps](https://) | [Free ссылка](https://cloud.mail.ru/public/48BM/XKqCN4rYw) Пароль: 
 Описание:
