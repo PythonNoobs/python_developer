@@ -17,8 +17,8 @@
 - [ВИДЕО](https://github.com/PythonNoobs/python_developer/blob/master/Videos.md) 
 В разделе подобраны различные интересные видео-уроки. Для вашего удобства видео-уроки сгруппированы по языкам.
 
-- [WEB-ФРЕЙМВОРКИ](https://github.com/PythonNoobs/python_developer/blob/master/Django_framework.md) 
-В разделе подобраны различные материалы для изучения web-фреймворков. В основном материалы по Django.
+- [DJANGO](https://github.com/PythonNoobs/python_developer/blob/master/Django_framework.md) 
+В разделе подобраны различные материалы для изучения web-фреймворка Django.
 
 - [GUI-ПРИЛОЖЕНИЯ](https://github.com/PythonNoobs/python_developer/blob/master/Tkinter_PyQt.md) 
 В разделе подобраны различные материалы для обучения разработке GUI-приложений. 
@@ -78,7 +78,6 @@
 
 [Думать на языке Python – A. Downey (ru) 2013](https://yadi.sk/i/KjFEI-0_nStawg)
 Учит думать как разработчик, сочетать качества математика, инженера и ученого.
-Книга предоставлена каналом @progamedev – как делают видеоигры.
 #beginner
 
 [Программируем на Python – Доусон М. (ru) 2014](https://yadi.sk/i/qqC5bC6cO_oqIg)
@@ -104,7 +103,6 @@ Cодержит начальные сведения о Python и может бы
 
 [Основы программирования на Python – С. Шапошникова (ru) 2011](https://yadi.sk/i/IqDufAoQWtbAtw)
 Вводный курс, дающий представление о базовых понятиях структурного программирования.
-Книга предоставлена каналом @webgarage.
 #beginner
 
 [Шпаргалка по операторам (ru)](https://yadi.sk/i/ACoGmUFPAp4j6w)
@@ -233,7 +231,6 @@ Cодержит начальные сведения о Python и может бы
 
 [Программируем коллективный разум – Т. Сегаран (ru) 2008](https://yadi.sk/i/_KXHfTFXRzm-Zg)
 Научит создавать программы для собора и аналитики данных из Сети.
-Книга предоставлена каналом @frontend_textbooks.
 #middle
 
 [Шпаргалка по Python 3 – Laurent Pointal (ru) 2013](https://yadi.sk/i/WvawhL3u43rTIw)
