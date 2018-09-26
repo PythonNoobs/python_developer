@@ -85,7 +85,7 @@
 
 [evileg.com](https://evileg.com/ru/knowledge/django/) Различные уроки
 
-# DJANGO ON ENGLISH LANGUAGE:
+# DJANGO IN ENGLISH:
 
 ## VIDEO-COURSES:
 
