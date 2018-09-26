@@ -17,7 +17,7 @@
 - [ВИДЕО](https://github.com/PythonNoobs/python_developer/blob/master/Videos.md) 
 В разделе подобраны различные интересные видео-уроки. Для вашего удобства видео-уроки сгруппированы по языкам.
 
-- [ФРЕЙМВОРК DJANGO](https://github.com/PythonNoobs/python_developer/blob/master/Django_framework.md) 
+- [DJANGO-ФРЕЙМВОРК](https://github.com/PythonNoobs/python_developer/blob/master/Django_framework.md) 
 В разделе подобраны различные материалы для изучения web-фреймворка Django.
 
 - [GUI-ПРИЛОЖЕНИЯ](https://github.com/PythonNoobs/python_developer/blob/master/Tkinter_PyQt.md) 
@@ -28,6 +28,9 @@
 
 - [ПОЛЕЗНЫЕ СТАТЬИ-РУКОВОДСТВА](https://github.com/PythonNoobs/python_developer/blob/master/Manuals.md) 
 В разделе подобраны различные статьи и руководства.
+
+- [ОТЗЫВЫ ОБ УЧЕБНЫХ МАТЕРИАЛАХ](https://github.com/PythonNoobs/python_developer/blob/master/reviews.md) 
+В разделе собраны отзывы участников проекта о прочитанных книгах-статьях, пройденных курсах и других учебных материалах о программировании (и не только на Python).
 
 # ДЖАНГО НА РУССКОМ ЯЗЫКЕ
 ## ВИДЕО-КУРСЫ:
