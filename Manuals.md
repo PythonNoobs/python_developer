@@ -23,11 +23,11 @@
 - [GUI-ПРИЛОЖЕНИЯ](https://github.com/PythonNoobs/python_developer/blob/master/Tkinter_PyQt.md) 
 В разделе подобраны различные материалы для обучения разработке GUI-приложений. 
 
-- [ПОЛЕЗНЫЕ ССЫЛКИ](https://github.com/PythonNoobs/python_developer/blob/master/Telegram_channels.md) 
-В разделе подобраны различные web-ресурсы, сопутствующие изучению программированию.  
-
 - [ПОЛЕЗНЫЕ РЕСУРСЫ](https://github.com/PythonNoobs/python_developer/edit/master/useful_resources.md) 
 В разделе подобраны различные web-ресурсы, программы сопутствующие изучению программирования.  
+
+- [ПОЛЕЗНЫЕ СТАТЬИ-РУКОВОДСТВА](https://github.com/PythonNoobs/python_developer/blob/master/Manuals.md) 
+В разделе подобраны различные статьи и руководства.
 
 - [ОТЗЫВЫ ОБ УЧЕБНЫХ МАТЕРИАЛАХ](https://github.com/PythonNoobs/python_developer/blob/master/reviews.md) 
 В разделе собраны отзывы участников проекта о прочитанных книгах-статьях, пройденных курсах и других учебных материалах о программировании (и не только на Python).
