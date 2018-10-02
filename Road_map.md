@@ -35,21 +35,40 @@
 
 
 # 0 to #beginner
+## Общие материалы для подготовки
+- [Интерактивный онлайн-курс pythontutor.ru](http://pythontutor.ru) 
+- [Книга "Основы программирования на примере языка Python Федоров, Д. Ю."](https://dfedorov.spb.ru/python3/book.pdf)
+- [Курс на Coursera "Погружение в Python" от Mail.ru] (https://www.coursera.org/learn/diving-in-python)
+## Материалы по темам:
 ## Ввод и вывод данных
+- [pythontutor.ru - ввод и вывод данных](http://pythontutor.ru/lessons/inout_and_arithmetic_operations/) 
 ## Условия
+- [pythontutor.ru - условия](http://pythontutor.ru/lessons/ifelse/) 
 ## Вычисления
+- [pythontutor.ru - вычисления](http://pythontutor.ru/lessons/int_and_float/) 
 ## Цикл for
+- [pythontutor.ru](http://pythontutor.ru/lessons/for_loop/) 
 ## Строки
+- [pythontutor.ru](http://pythontutor.ru/lessons/str/) 
 ## Цикл while
+- [pythontutor.ru](http://pythontutor.ru/lessons/while/) 
 ## Списки
+- [pythontutor.ru](http://pythontutor.ru/lessons/lists/) 
 ## Функции и рекурсия
+- [pythontutor.ru](http://pythontutor.ru/lessons/functions/) 
 ## Двумерные массивы
+- [pythontutor.ru](http://pythontutor.ru/lessons/2d_arrays/) 
 ## Множества
+- [pythontutor.ru](http://pythontutor.ru/lessons/sets/) 
 ## Словари
+- [pythontutor.ru](http://pythontutor.ru/lessons/dicts/) 
 
 
 # #beginner to #junior
 ## Модули
 ## Форматирование строк
 ## Регулярные выражения
+- [habr.com - Регулярные выражения в Python от простого к сложному](https://habr.com/post/349860/) 
 ## Классы и ООП
+- [youtube.com - Общая информация о классах](https://www.youtube.com/playlist?list=PLa9lO_Eq-vZVusZYUe3tcfZ3jgxZ21BTJ)
+
