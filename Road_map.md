@@ -35,11 +35,11 @@
 
 
 # 0 to #beginner
-## -->Общие материалы для подготовки
+## ОБЩИЕ МАТЕРИАЛЫ ДЛЯ ПОДГОТОВКИ
 - [Интерактивный онлайн-курс pythontutor.ru](http://pythontutor.ru) 
 - [Книга "Основы программирования на примере языка Python Федоров, Д. Ю."](https://dfedorov.spb.ru/python3/book.pdf)
 - [Курс на Coursera "Погружение в Python" от Mail.ru](https://www.coursera.org/learn/diving-in-python)
-## -->Материалы по темам:
+## МАТЕРИАЛЫ РАЗБИТЫЕ ПО ТЕМАМ
 ## Ввод и вывод данных
 - [pythontutor.ru - ввод и вывод данных](http://pythontutor.ru/lessons/inout_and_arithmetic_operations/) 
 ## Условия
@@ -65,10 +65,10 @@
 
 
 # #beginner to #junior
-## -->Общие материалы для подготовки
+## ОБЩИЕ МАТЕРИАЛЫ ДЛЯ ПОДГОТОВКИ
 - [youtube.com - Python Casts от Олега Молчанова](https://www.youtube.com/watch?v=INVi_0pNSg8&list=PLlWXhlUMyooYqypXIju-5czBtppKaWimP)
 
-## -->Материалы разбитые по темам:
+## МАТЕРИАЛЫ РАЗБИТЫЕ ПО ТЕМАМ
 ## Вспомогательные функции (map, zip, filter, reduce, lambda, enumirate...)
 - [youtube.com - Общая информация о классах](https://www.youtube.com/playlist?list=PLa9lO_Eq-vZVusZYUe3tcfZ3jgxZ21BTJ)
 ## Модули
