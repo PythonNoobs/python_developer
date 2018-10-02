@@ -47,28 +47,34 @@
 ## Вычисления
 - [pythontutor.ru - вычисления](http://pythontutor.ru/lessons/int_and_float/) 
 ## Цикл for
-- [pythontutor.ru](http://pythontutor.ru/lessons/for_loop/) 
+- [pythontutor.ru - Цикл for](http://pythontutor.ru/lessons/for_loop/) 
 ## Строки
-- [pythontutor.ru](http://pythontutor.ru/lessons/str/) 
+- [pythontutor.ru - Строки](http://pythontutor.ru/lessons/str/) 
 ## Цикл while
-- [pythontutor.ru](http://pythontutor.ru/lessons/while/) 
+- [pythontutor.ru - Цикл while](http://pythontutor.ru/lessons/while/) 
 ## Списки
-- [pythontutor.ru](http://pythontutor.ru/lessons/lists/) 
+- [pythontutor.ru - Списки](http://pythontutor.ru/lessons/lists/) 
 ## Функции и рекурсия
-- [pythontutor.ru](http://pythontutor.ru/lessons/functions/) 
+- [pythontutor.ru - Функции и рекурсия](http://pythontutor.ru/lessons/functions/) 
 ## Двумерные массивы
-- [pythontutor.ru](http://pythontutor.ru/lessons/2d_arrays/) 
+- [pythontutor.ru - Двумерные массивы](http://pythontutor.ru/lessons/2d_arrays/) 
 ## Множества
-- [pythontutor.ru](http://pythontutor.ru/lessons/sets/) 
+- [pythontutor.ru - Множества](http://pythontutor.ru/lessons/sets/) 
 ## Словари
-- [pythontutor.ru](http://pythontutor.ru/lessons/dicts/) 
+- [pythontutor.ru - Словари](http://pythontutor.ru/lessons/dicts/) 
 
 
 # #beginner to #junior
+## Общие материалы для подготовки
+- [youtube.com - Python Casts от Олега Молчанова](https://www.youtube.com/watch?v=INVi_0pNSg8&list=PLlWXhlUMyooYqypXIju-5czBtppKaWimP)
+
+## Материалы разбитые по темам:
+## Вспомогательные функции (map, zip, filter, reduce, lambda, enumirate...)
+- [youtube.com - Общая информация о классах](https://www.youtube.com/playlist?list=PLa9lO_Eq-vZVusZYUe3tcfZ3jgxZ21BTJ)
 ## Модули
 ## Форматирование строк
 ## Регулярные выражения
 - [habr.com - Регулярные выражения в Python от простого к сложному](https://habr.com/post/349860/) 
 ## Классы и ООП
 - [youtube.com - Общая информация о классах](https://www.youtube.com/playlist?list=PLa9lO_Eq-vZVusZYUe3tcfZ3jgxZ21BTJ)
-
+## Декораторы
