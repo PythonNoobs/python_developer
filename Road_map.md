@@ -38,7 +38,7 @@
 ## Общие материалы для подготовки
 - [Интерактивный онлайн-курс pythontutor.ru](http://pythontutor.ru) 
 - [Книга "Основы программирования на примере языка Python Федоров, Д. Ю."](https://dfedorov.spb.ru/python3/book.pdf)
-- [Курс на Coursera "Погружение в Python" от Mail.ru] (https://www.coursera.org/learn/diving-in-python)
+- [Курс на Coursera "Погружение в Python" от Mail.ru](https://www.coursera.org/learn/diving-in-python)
 ## Материалы по темам:
 ## Ввод и вывод данных
 - [pythontutor.ru - ввод и вывод данных](http://pythontutor.ru/lessons/inout_and_arithmetic_operations/) 
