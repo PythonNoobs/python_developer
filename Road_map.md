@@ -70,7 +70,6 @@
 
 ## МАТЕРИАЛЫ РАЗБИТЫЕ ПО ТЕМАМ:
 ## Вспомогательные функции (map, zip, filter, reduce, lambda, enumirate...)
-- [youtube.com - Общая информация о классах](https://www.youtube.com/playlist?list=PLa9lO_Eq-vZVusZYUe3tcfZ3jgxZ21BTJ)
 ## Модули
 ## Форматирование строк
 ## Регулярные выражения
